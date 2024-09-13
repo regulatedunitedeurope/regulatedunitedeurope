@@ -24,7 +24,7 @@ Allow: /wp-*.gif
 Allow: /wp-*.woff
 Allow: /wp-*.woff2
 
-host: https://regulatedunitedeurope.com
-sitemap: https://regulatedunitedeurope.com/sitemap_index.xml
+host: https://regulatedunitedeurope.github.io
+sitemap: https://regulatedunitedeurope.github.io/sitemap_index.xml
 
 ##3
